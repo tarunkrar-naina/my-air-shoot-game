@@ -1,84 +1,60 @@
-# 🎯 Advanced Air Shooting Game
+# 🎯 Air Shooter
 
-An advanced, interactive air shooting game featuring **camera-based gun control** for an immersive gaming experience. Control your virtual weapon using camera input and enjoy a unique way to interact with the game.
+An advanced, interactive shooting game that uses camera-based hand movement controls to deliver a unique and immersive gaming experience.
 
 ## 🚀 Features
 
-* 🎮 **Interactive Gameplay** — Enjoy an engaging and dynamic shooting experience.
-* 📷 **Camera-Based Gun Control** — Control the virtual gun using camera input.
-* 🎯 **Real-Time Interaction** — Experience camera-driven gameplay.
-* 🤖 **AI-Powered Development** — Developed with the assistance of Google AI Studio.
-* 🖥️ **Browser-Based Experience** — Play directly in your browser if supported by the deployed version.
-* ⚡ **Modern Interface** — Designed to deliver an engaging gaming experience.
+* 📷 **Camera-Based Controls:** Control aiming through hand movements.
+* 🔫 **Interactive Shooting:** Enjoy an engaging shooting experience.
+* 🎮 **Easy Gameplay:** Simple and intuitive game controls.
+* 🔊 **Sound Effects:** Enhanced audio feedback for immersive gameplay.
+* 🔄 **Start & Restart:** Easily start or restart the game.
+* 🌐 **Browser-Based:** Play online without installing a traditional desktop application.
 
-## 🕹️ How to Play
+## 🎮 How to Play
 
-1. Open the game using its deployed link.
+1. Open the game using the link below.
 2. Allow camera access when prompted.
-3. Follow the on-screen instructions to initialize camera-based controls.
-4. Move according to the game's supported camera-control gestures.
-5. Aim and shoot using the supported controls.
+3. Position your hand in front of the camera.
+4. Move your hand to control aiming.
+5. Use the game's supported shooting controls to shoot.
 6. Enjoy the game!
-
-*Note: The exact controls depend on the gestures and mechanics implemented in the game.*
-
-## 🛠️ Built With
-
-* Google AI Studio
-* AI-assisted game development
-* Camera-based interaction technology
-* Web technologies used in the project
-
-*The exact programming languages and frameworks depend on the project's source code.*
-
-## 📸 Screenshots
-
-Add screenshots of your game here to showcase its interface and gameplay.
-
-Example:
-
-```md
-![Game Screenshot](screenshots/game.png)
-```
 
 ## 🌐 Live Demo
 
-**Play the Game:** Add your published game link here.
+**Play Air Shooter:**
+https://ai.studio/apps/131f0673-18e4-4cd2-8aaa-db71a23d93b6
 
-## 💻 Installation
+## 🕹️ Controls
 
-To run the project locally:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-   ```
-
-2. Open the project folder:
-
-   ```bash
-   cd YOUR-REPOSITORY
-   ```
-
-3. Install the required dependencies according to the project's package manager and configuration.
-
-4. Start the development server using the command specified in the project's configuration.
-
-5. Open the local URL shown in your terminal.
-
-## 🔐 Camera Permissions
-
-Camera access may be required for camera-based gameplay. Grant permission only when you trust the application and understand how the camera is being used.
-
-## 🎯 Project Goal
-
-The goal of this project is to explore interactive gaming through camera-based controls and create a more immersive shooting experience using modern web technologies.
+| Action     | Control                            |
+| ---------- | ---------------------------------- |
+| Start Game | Start button                       |
+| Aim        | Hand movement                      |
+| Shoot      | Supported in-game shooting control |
+| Restart    | Restart button                     |
 
 ## 👨‍💻 Developer
 
-Created with Google AI Studio and modern AI-assisted development techniques.
+**Tarun Krar**
+
+Creator and Developer of Air Shooter.
+
+GitHub Profile:
+https://github.com/tarunkrar-naina
+
+## 🎯 About the Project
+
+Air Shooter is a camera-controlled shooting game designed to explore a more interactive way of gaming. By using hand movements to control aiming, the game offers an alternative to conventional keyboard and mouse controls.
+
+## 🔒 Camera Permissions
+
+Camera access is required for camera-based controls. Allow permission when prompted to use these features.
 
 ## 📄 License
 
-Choose an appropriate open-source license before distributing or reusing this project. Until a license is added, the project should not be assumed to be open source for unrestricted reuse.
+No license has been specified yet. All rights are reserved by the project owner unless otherwise stated.
+
+---
+
+**Created by Tarun krar 🎮**
