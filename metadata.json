@@ -1,0 +1,6 @@
+{
+  "name": "Air Shoot",
+  "description": "An interactive wildlife shooter game featuring real-time camera-based hand gesture controls and high-fidelity birds tracking.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
