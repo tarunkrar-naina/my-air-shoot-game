@@ -23,7 +23,7 @@ An advanced, interactive shooting game that uses camera-based hand movement cont
 ## 🌐 Live Demo
 
 **Play Air Shooter:**
-https://ai.studio/apps/131f0673-18e4-4cd2-8aaa-db71a23d93b6
+https://air-shoot.ai.studio/
 
 ## 🕹️ Controls
 
